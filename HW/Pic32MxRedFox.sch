@@ -812,7 +812,7 @@ L Device:R R2
 U 1 1 5D4FCF50
 P 1150 5000
 F 0 "R2" V 943 5000 50  0000 C CNN
-F 1 "1k" V 1034 5000 50  0000 C CNN
+F 1 "10k" V 1034 5000 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 1080 5000 50  0001 C CNN
 F 3 "~" H 1150 5000 50  0001 C CNN
 	1    1150 5000
@@ -823,7 +823,7 @@ L Device:R R3
 U 1 1 5D4FD017
 P 1150 5400
 F 0 "R3" V 943 5400 50  0000 C CNN
-F 1 "1k" V 1034 5400 50  0000 C CNN
+F 1 "10k" V 1034 5400 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 1080 5400 50  0001 C CNN
 F 3 "~" H 1150 5400 50  0001 C CNN
 	1    1150 5400
@@ -1399,67 +1399,67 @@ Wire Wire Line
 $Comp
 L Mechanical:MountingHole H1
 U 1 1 5DA5CA50
-P 5600 3200
-F 0 "H1" H 5700 3246 50  0000 L CNN
-F 1 "MB_0.5" H 5700 3155 50  0000 L CNN
-F 2 "KiCAD library:MouseBiteHole_0.5mm" H 5600 3200 50  0001 C CNN
-F 3 "~" H 5600 3200 50  0001 C CNN
-	1    5600 3200
+P 3850 2150
+F 0 "H1" H 3950 2196 50  0000 L CNN
+F 1 "MB_0.5" H 3950 2105 50  0000 L CNN
+F 2 "KiCAD library:MouseBiteHole_0.5mm" H 3850 2150 50  0001 C CNN
+F 3 "~" H 3850 2150 50  0001 C CNN
+	1    3850 2150
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H3
 U 1 1 5DA6CF06
-P 6100 3200
-F 0 "H3" H 6200 3246 50  0000 L CNN
-F 1 "MB_0.5" H 6200 3155 50  0000 L CNN
-F 2 "KiCAD library:MouseBiteHole_0.5mm" H 6100 3200 50  0001 C CNN
-F 3 "~" H 6100 3200 50  0001 C CNN
-	1    6100 3200
+P 3850 2550
+F 0 "H3" H 3950 2596 50  0000 L CNN
+F 1 "MB_0.5" H 3950 2505 50  0000 L CNN
+F 2 "KiCAD library:MouseBiteHole_0.5mm" H 3850 2550 50  0001 C CNN
+F 3 "~" H 3850 2550 50  0001 C CNN
+	1    3850 2550
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H5
 U 1 1 5DA6CF76
-P 6600 3200
-F 0 "H5" H 6700 3246 50  0000 L CNN
-F 1 "MB_0.5" H 6700 3155 50  0000 L CNN
-F 2 "KiCAD library:MouseBiteHole_0.5mm" H 6600 3200 50  0001 C CNN
-F 3 "~" H 6600 3200 50  0001 C CNN
-	1    6600 3200
+P 4350 2350
+F 0 "H5" H 4450 2396 50  0000 L CNN
+F 1 "MB_0.5" H 4450 2305 50  0000 L CNN
+F 2 "KiCAD library:MouseBiteHole_0.5mm" H 4350 2350 50  0001 C CNN
+F 3 "~" H 4350 2350 50  0001 C CNN
+	1    4350 2350
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H2
 U 1 1 5DA6D2CE
-P 5600 3400
-F 0 "H2" H 5700 3446 50  0000 L CNN
-F 1 "MB_0.5" H 5700 3355 50  0000 L CNN
-F 2 "KiCAD library:MouseBiteHole_0.5mm" H 5600 3400 50  0001 C CNN
-F 3 "~" H 5600 3400 50  0001 C CNN
-	1    5600 3400
+P 3850 2350
+F 0 "H2" H 3950 2396 50  0000 L CNN
+F 1 "MB_0.5" H 3950 2305 50  0000 L CNN
+F 2 "KiCAD library:MouseBiteHole_0.5mm" H 3850 2350 50  0001 C CNN
+F 3 "~" H 3850 2350 50  0001 C CNN
+	1    3850 2350
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H4
 U 1 1 5DA7CA40
-P 6100 3400
-F 0 "H4" H 6200 3446 50  0000 L CNN
-F 1 "MB_0.5" H 6200 3355 50  0000 L CNN
-F 2 "KiCAD library:MouseBiteHole_0.5mm" H 6100 3400 50  0001 C CNN
-F 3 "~" H 6100 3400 50  0001 C CNN
-	1    6100 3400
+P 4350 2150
+F 0 "H4" H 4450 2196 50  0000 L CNN
+F 1 "MB_0.5" H 4450 2105 50  0000 L CNN
+F 2 "KiCAD library:MouseBiteHole_0.5mm" H 4350 2150 50  0001 C CNN
+F 3 "~" H 4350 2150 50  0001 C CNN
+	1    4350 2150
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H6
 U 1 1 5DA7CAB4
-P 6600 3400
-F 0 "H6" H 6700 3446 50  0000 L CNN
-F 1 "MB_0.5" H 6700 3355 50  0000 L CNN
-F 2 "KiCAD library:MouseBiteHole_0.5mm" H 6600 3400 50  0001 C CNN
-F 3 "~" H 6600 3400 50  0001 C CNN
-	1    6600 3400
+P 4350 2550
+F 0 "H6" H 4450 2596 50  0000 L CNN
+F 1 "MB_0.5" H 4450 2505 50  0000 L CNN
+F 2 "KiCAD library:MouseBiteHole_0.5mm" H 4350 2550 50  0001 C CNN
+F 3 "~" H 4350 2550 50  0001 C CNN
+	1    4350 2550
 	1    0    0    -1  
 $EndComp
 Wire Notes Line
@@ -1507,22 +1507,18 @@ Reset RC
 Wire Notes Line
 	500  500  5350 500 
 Wire Notes Line
-	5350 500  5350 3550
-Wire Notes Line
-	5350 3550 500  3550
-Wire Notes Line
 	500  3550 500  500 
-Text Notes 4200 3350 0    50   ~ 0
+Text Notes 550  3500 0    50   ~ 0
 USB section with \nESD protection for PC
 Wire Notes Line
-	5400 3550 7000 3550
+	3700 2800 5300 2800
 Wire Notes Line
-	7000 3550 7000 2700
+	5300 2800 5300 1650
 Wire Notes Line
-	7000 2700 5400 2700
+	5300 1650 3700 1650
 Wire Notes Line
-	5400 2700 5400 3550
-Text Notes 5600 3000 0    50   ~ 0
+	3700 1650 3700 2800
+Text Notes 3900 1950 0    50   ~ 0
 "Mousebite" holes\nScore with knife through holes\nand break programming header
 Wire Notes Line
 	7050 4100 11150 4100
@@ -1552,12 +1548,12 @@ Wire Notes Line
 Wire Notes Line
 	500  6450 500  5850
 $Comp
-L Graphic:Logo_Open_Hardware_Small #LOGO1
+L Graphic:Logo_Open_Hardware_Small MARK2
 U 1 1 5DC4579F
 P 2000 6150
-F 0 "#LOGO1" H 2000 6425 50  0001 C CNN
+F 0 "MARK2" H 2000 6425 50  0001 C CNN
 F 1 "Logo_Open_Hardware_Small" H 2000 5925 50  0001 C CNN
-F 2 "" H 2000 6150 50  0001 C CNN
+F 2 "Symbol:OSHW-Logo_5.7x6mm_SilkScreen" H 2000 6150 50  0001 C CNN
 F 3 "~" H 2000 6150 50  0001 C CNN
 	1    2000 6150
 	1    0    0    -1  
@@ -1583,14 +1579,89 @@ Wire Wire Line
 Wire Wire Line
 	5100 5150 5600 5150
 $Comp
-L Regulator_Linear:LD1117S33TR_SOT223 U1
-U 1 1 601472C4
-P 3950 5700
-F 0 "U1" H 3950 5942 50  0000 C CNN
-F 1 "LD1117S33TR_SOT223" H 3950 5851 50  0000 C CNN
-F 2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" H 3950 5900 50  0001 C CNN
-F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf" H 4050 5450 50  0001 C CNN
-	1    3950 5700
+L Mechanical:MountingHole H8
+U 1 1 600B9C19
+P 4850 2350
+F 0 "H8" H 4950 2396 50  0000 L CNN
+F 1 "MB_0.5" H 4950 2305 50  0000 L CNN
+F 2 "KiCAD library:MouseBiteHole_0.5mm" H 4850 2350 50  0001 C CNN
+F 3 "~" H 4850 2350 50  0001 C CNN
+	1    4850 2350
 	1    0    0    -1  
 $EndComp
+$Comp
+L Mechanical:MountingHole H7
+U 1 1 600B9C1F
+P 4850 2150
+F 0 "H7" H 4950 2196 50  0000 L CNN
+F 1 "MB_0.5" H 4950 2105 50  0000 L CNN
+F 2 "KiCAD library:MouseBiteHole_0.5mm" H 4850 2150 50  0001 C CNN
+F 3 "~" H 4850 2150 50  0001 C CNN
+	1    4850 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H9
+U 1 1 600B9C25
+P 4850 2550
+F 0 "H9" H 4950 2596 50  0000 L CNN
+F 1 "MB_0.5" H 4950 2505 50  0000 L CNN
+F 2 "KiCAD library:MouseBiteHole_0.5mm" H 4850 2550 50  0001 C CNN
+F 3 "~" H 4850 2550 50  0001 C CNN
+	1    4850 2550
+	1    0    0    -1  
+$EndComp
+Wire Notes Line
+	3650 3550 3650 1600
+Wire Notes Line
+	3650 1600 5350 1600
+Wire Notes Line
+	500  3550 3650 3550
+Wire Notes Line
+	5350 1600 5350 500 
+Text Notes 550  5950 0    50   ~ 0
+Fox logo and OSHW logo
+Wire Notes Line
+	3700 2900 3700 3550
+Wire Notes Line
+	3700 3550 5300 3550
+Wire Notes Line
+	5300 3550 5300 2900
+Wire Notes Line
+	5300 2900 3700 2900
+$Comp
+L Mechanical:Fiducial FID1
+U 1 1 601A3451
+P 3850 3200
+F 0 "FID1" H 3935 3246 50  0000 L CNN
+F 1 "Fiducial" H 3935 3155 50  0000 L CNN
+F 2 "Fiducial:Fiducial_0.5mm_Mask1mm" H 3850 3200 50  0001 C CNN
+F 3 "~" H 3850 3200 50  0001 C CNN
+	1    3850 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID2
+U 1 1 601A3850
+P 4350 3200
+F 0 "FID2" H 4435 3246 50  0000 L CNN
+F 1 "Fiducial" H 4435 3155 50  0000 L CNN
+F 2 "Fiducial:Fiducial_0.5mm_Mask1mm" H 4350 3200 50  0001 C CNN
+F 3 "~" H 4350 3200 50  0001 C CNN
+	1    4350 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID3
+U 1 1 601A3BE7
+P 4850 3200
+F 0 "FID3" H 4935 3246 50  0000 L CNN
+F 1 "Fiducial" H 4935 3155 50  0000 L CNN
+F 2 "Fiducial:Fiducial_0.5mm_Mask1mm" H 4850 3200 50  0001 C CNN
+F 3 "~" H 4850 3200 50  0001 C CNN
+	1    4850 3200
+	1    0    0    -1  
+$EndComp
+Text Notes 3800 3000 0    50   ~ 0
+Fiducial markers for pick&place
 $EndSCHEMATC
